@@ -1,0 +1,49 @@
+.spe-item{
+	 display:flex;
+	}
+	.spe-item>*{
+		padding: 0px px;
+	}
+	.container{
+	
+	 width:100%;
+	 margin-top:100px;
+	 background-color:black;
+	}
+	.list{
+	 width:20%;
+	 color:white;
+	 border-right:2px solid #cda45e;
+	 font-size:20px;
+	 
+	}
+	.list > h5:hover{
+	color:black;
+	background:#cda45e;
+	}
+	.list > h5{
+	border:px solid white;
+	padding:10px;
+	
+	}
+	.content{
+	 width:50%;
+	 color:white;
+	 padding:0px 0px 0px 15px;
+	}
+	.image{
+	  width:30%;
+	}
+	.header{
+	  color:white;
+	  padding:10px 0px 0px 20px;
+	}
+	
+	.list > .active{
+	  background:#cda45e;
+	  color:black;
+	  margin:0;
+	}
+	.header > h1{
+	 color:orange;
+	}
